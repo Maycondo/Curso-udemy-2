@@ -1,0 +1,27 @@
+:root {
+    --primary-color: rgb(13, 106, 134);
+    --primary-color-darker: rgb(4, 51, 66);
+  }
+  
+  * {
+    box-sizing: border-box;
+    outline: 0;
+    font-family: "Open Sans", sans-serif;
+  }
+  
+  body {
+    background-color: var(--primary-color);
+    margin: 0%;
+    padding: 0%;
+    font-size: 1.1rem;
+    line-height: 1.5rem;
+  }
+  
+  .container {
+    max-width: 640px;
+    margin: 50px auto;
+    background: #fff;
+    padding: 40px;
+    border-radius: 10px;
+  }
+  
