@@ -28,3 +28,7 @@ body {
 .Relogio {
   font-size: 3rem;
 }
+
+.pausado{
+  color: red;
+}
